@@ -4,9 +4,34 @@ O que é o GIT- De longe, o sistema de controle de versão moderno mais usado no
 
 O que é o GitHub- O GitHub é uma plataforma de repositórios de códigos de softwares que funciona como uma rede social. Por lá, profissionais do setor podem colaborar em projetos e expor seus trabalhos.
 
-Porque o GitHub é tão útil?
-O GitHub nasceu do Git, que é um projeto open source de criação de repositórios locais (feature branches) na máquina de cada um dos usuários. Esses arquivos são liberados no GitHub de forma independente, sem afetar a ramificação principal. Assim, o principal cuidador do projeto pode fazer a unificação e aceitar as mudanças que julgar necessárias no código. 
-
-*Importante saber que se você estiver entrando pela primeira vez no Git Bash em seu dispositivo sera necessário configurar o usuário e o email a primeira vez.*
+Porque o GitHub é tão útil? O GitHub nasceu do Git, que é um projeto open source de criação de repositórios locais (feature branches) na máquina de cada um dos usuários. Esses arquivos são liberados no GitHub de forma independente, sem afetar a ramificação principal. Assim, o principal cuidador do projeto pode fazer a unificação e aceitar as mudanças que julgar necessárias no código. 
 
 Git Bash: O Git Bash é um terminal extendido para otimizar o uso do GIT.
+
+Passo a Passo para utilização:
+*Importante saber que se você estiver entrando pela primeira vez no Git Bash em seu dispositivo sera necessário configurar o usuário e o email a primeira vez.*
+
+Utilizando o Git Bash: Crie a pasta onde vai ficar o documento.
+
+Cique com o botão direito e clique em Git Bash.
+
+Para você clonar o seu repositório, clica em copiar seu código.
+
+E depois de configurar seu usuário e email no Git Bash (se for a primeira vez).
+
+Você digita git clone, cole o código.
+
+Em seguida manipule a pasta, faça as modificações, crie documentos e ect
+
+Para salvar as modificações. Primeiro dê um git status, assim você sera avisado de todas as modificações.
+
+Em seguida digite o comando git add ., ele iniciará o envio dos commits.
+
+Em seguida digite o comando git commit -m acompanhado da mensagem que descreve as modificações efetuadas.
+
+Digite o comando git status novamente para perceber se está tudo certo.
+
+E ai sim digite o comando git push origin main, para enviar todos os commits efetuados.
+
+Vá em seu GitHub e observe se os commits foram efetuados.
+
