@@ -1,0 +1,12 @@
+Link para download do Git: https://git-scm.com/downloads
+
+O que é o GIT- De longe, o sistema de controle de versão moderno mais usado no mundo hoje. O Git é um projeto de código aberto maduro e com manutenção ativa desenvolvido em 2005 por Linus Torvalds, o famoso criador do kernel do sistema operacional Linux.
+
+O que é o GitHub- O GitHub é uma plataforma de repositórios de códigos de softwares que funciona como uma rede social. Por lá, profissionais do setor podem colaborar em projetos e expor seus trabalhos.
+
+Porque o GitHub é tão útil?
+O GitHub nasceu do Git, que é um projeto open source de criação de repositórios locais (feature branches) na máquina de cada um dos usuários. Esses arquivos são liberados no GitHub de forma independente, sem afetar a ramificação principal. Assim, o principal cuidador do projeto pode fazer a unificação e aceitar as mudanças que julgar necessárias no código. 
+
+*Importante saber que se você estiver entrando pela primeira vez no Git Bash em seu dispositivo sera necessário configurar o usuário e o email a primeira vez.*
+
+Git Bash: O Git Bash é um terminal extendido para otimizar o uso do GIT.
